@@ -48,27 +48,36 @@
 
 ## 📊 GitHub Activity
 
-<!-- GitHub Stats & Top Languages -->
 <div align="center">
 
-  <!-- GitHub Total Stats -->
-  <a href="https://github.com/HamzaShoukat1">
-    <img src="https://github-readme-stats.vercel.app/api?username=HamzaShoukat1&show_icons=true&theme=default&hide_border=true" height="160"/>
-  </a>
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/HamzaShoukat1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaShoukat1&theme=default&hide_border=true" height="160"/>
-  </a>
+  <!-- GitHub Stats Cards (Profile, Top Languages, Overall Stats) -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/HamzaShoukat1">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaShoukat1&theme=github_dark" height="160"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HamzaShoukat1?tab=repositories">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaShoukat1&theme=github_dark" height="160"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HamzaShoukat1">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaShoukat1&theme=github_dark" height="160"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
-  <!-- Top Languages -->
-  <a href="https://github.com/HamzaShoukat1?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShoukat1&layout=compact&theme=default&hide_border=true"/>
-  </a>
+ 
 
 </div>
+
+
 
 
 ## 🧩 Currently Working On
