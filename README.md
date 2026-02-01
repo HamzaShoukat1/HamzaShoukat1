@@ -1,18 +1,67 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">Fronted developer</h3>
+<h1 align="center">Hi 👋, I'm Hamza Shoukat</h1>
+<h3 align="center">Frontend Developer | Backend-Aware Full-Stack Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashoukat1&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashoukat1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzashoukat1" alt="hamzashoukat1" /></a> </p>
-
-- 🌱 I’m currently learning **backened full stack javascript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  I craft modern, responsive, and user-focused interfaces  
+  with solid backend knowledge and real-world project experience.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzashoukat1&show_icons=true&locale=en" alt="hamzashoukat1" /></p>
+## 🚀 About Me
+
+- 🎨 **Frontend-first developer** (React, UI/UX focused)
+- 🧠 Strong understanding of **backend systems & APIs**
+- 🔐 Built **secure authentication flows** (email verification, password reset)
+- 🗄️ Experience with **MongoDB & PostgreSQL**
+- 🐦 Currently building a **Twitter-like full-stack application**
+- ⚡ Passionate about clean code, performance, and scalability
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaShoukat1&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=HamzaShoukat1&theme=tokyonight" height="160"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShoukat1&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 What I’m Working On
+
+- 🐦 Twitter-like Full Stack Application
+- ⚡ Improving frontend performance & UI polish
+- 🔄 Real-time features (likes, notifications)
+- 🛡️ Secure authentication & authorization systems
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/hamza-shoukat-58619a243/
+
 
