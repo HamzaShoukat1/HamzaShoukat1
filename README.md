@@ -48,16 +48,28 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaShoukat1&show_icons=true&theme=tokyonight&rank_icon=github" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=HamzaShoukat1&theme=tokyonight" height="160"/>
-</p>
+<!-- GitHub Stats & Top Languages -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShoukat1&layout=compact&theme=tokyonight"/>
-</p>
+  <!-- GitHub Total Stats -->
+  <a href="https://github.com/HamzaShoukat1">
+    <img src="https://github-readme-stats.vercel.app/api?username=HamzaShoukat1&show_icons=true&theme=default&hide_border=true" height="160"/>
+  </a>
 
----
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/HamzaShoukat1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaShoukat1&theme=default&hide_border=true" height="160"/>
+  </a>
+
+  <br/>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/HamzaShoukat1?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaShoukat1&layout=compact&theme=default&hide_border=true"/>
+  </a>
+
+</div>
+
 
 ## 🧩 Currently Working On
 
@@ -72,8 +84,3 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/hamza-shoukat-58619a243/
 
----
-
-<p align="center">
-  <i>“Good frontend is not just how it looks — it’s how it performs and scales.”</i>
-</p>
