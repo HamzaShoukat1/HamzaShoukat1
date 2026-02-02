@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Shoukat</h1>
-<h3 align="center">Frontend Developer • Backend-Aware Full-Stack Engineer</h3>
+<h3 align="center">Frontend Developer • Expand towards backened</h3>
 
 <p align="center">
   I build modern, scalable, and user-focused web applications with a strong frontend foundation  
